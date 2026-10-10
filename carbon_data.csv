@@ -1,0 +1,181 @@
+Date,Location,Category,Activity,Quantity,Unit,Emission_Factor,CO2_Emission_kg,Month,Year
+"Thursday, January 1, 2026",Pune,Transport,Car,91,km,0.192,17.47,January,2026
+"Saturday, January 3, 2026",Pune,Electricity,Electricity,294,kWh,0.82,241.08,January,2026
+"Monday, January 5, 2026",Pune,Transport,Train,379,km,0.041,15.54,January,2026
+"Wednesday, January 7, 2026",Pune,Cooking,LPG,11.7,kg,3,35.1,January,2026
+"Friday, January 9, 2026",Pune,Flight,Air Travel,1415,km,0.15,212.25,January,2026
+"Sunday, January 11, 2026",Pune,Waste,General Waste,17.7,kg,0.5,8.85,January,2026
+"Tuesday, January 13, 2026",Pune,Electricity,Electricity,138,kWh,0.82,113.16,January,2026
+"Thursday, January 15, 2026",Pune,Electricity,Electricity,267,kWh,0.82,218.94,January,2026
+"Saturday, January 17, 2026",Pune,Transport,Bus,465,km,0.105,48.82,January,2026
+"Monday, January 19, 2026",Nagpur,Transport,Motorcycle,150,km,0.103,15.45,January,2026
+"Wednesday, January 21, 2026",Mumbai,Flight,Air Travel,1040,km,0.15,156,January,2026
+"Friday, January 23, 2026",Nagpur,Transport,Train,33,km,0.041,1.35,January,2026
+"Sunday, January 25, 2026",Pune,Flight,Air Travel,764,km,0.15,114.6,January,2026
+"Tuesday, January 27, 2026",Mumbai,Transport,Train,474,km,0.041,19.43,January,2026
+"Thursday, January 29, 2026",Nashik,Electricity,Electricity,114,kWh,0.82,93.48,January,2026
+"Saturday, January 31, 2026",Pune,Waste,Recyclable Waste,24.2,kg,0.1,2.42,January,2026
+"Monday, February 2, 2026",Pune,Electricity,Electricity,339,kWh,0.82,277.98,February,2026
+"Wednesday, February 4, 2026",Nashik,Transport,Motorcycle,63,km,0.103,6.49,February,2026
+"Friday, February 6, 2026",Nagpur,Waste,Recyclable Waste,23.4,kg,0.1,2.34,February,2026
+"Sunday, February 8, 2026",Pune,Transport,Bus,209,km,0.105,21.95,February,2026
+"Tuesday, February 10, 2026",Nashik,Transport,Train,386,km,0.041,15.83,February,2026
+"Thursday, February 12, 2026",Pune,Flight,Air Travel,963,km,0.15,144.45,February,2026
+"Saturday, February 14, 2026",Pune,Electricity,Electricity,236,kWh,0.82,193.52,February,2026
+"Monday, February 16, 2026",Pune,Flight,Air Travel,720,km,0.15,108,February,2026
+"Wednesday, February 18, 2026",Pune,Flight,Air Travel,1695,km,0.15,254.25,February,2026
+"Friday, February 20, 2026",Nashik,Transport,Motorcycle,182,km,0.103,18.75,February,2026
+"Sunday, February 22, 2026",Mumbai,Flight,Air Travel,1713,km,0.15,256.95,February,2026
+"Tuesday, February 24, 2026",Nagpur,Transport,Car,220,km,0.192,42.24,February,2026
+"Thursday, February 26, 2026",Pune,Cooking,LPG,2.6,kg,3,7.8,February,2026
+"Saturday, February 28, 2026",Mumbai,Transport,Train,191,km,0.041,7.83,February,2026
+"Tuesday, March 3, 2026",Nagpur,Cooking,LPG,6.7,kg,3,20.1,March,2026
+"Thursday, March 5, 2026",Nashik,Transport,Bus,24,km,0.105,2.52,March,2026
+"Saturday, March 7, 2026",Nashik,Electricity,Electricity,438,kWh,0.82,359.16,March,2026
+"Monday, March 9, 2026",Mumbai,Transport,Motorcycle,61,km,0.103,6.28,March,2026
+"Wednesday, March 11, 2026",Pune,Electricity,Electricity,431,kWh,0.82,353.42,March,2026
+"Friday, March 13, 2026",Pune,Cooking,LPG,7.1,kg,3,21.3,March,2026
+"Sunday, March 15, 2026",Mumbai,Waste,General Waste,18.1,kg,0.5,9.05,March,2026
+"Tuesday, March 17, 2026",Pune,Transport,Car,206,km,0.192,39.55,March,2026
+"Thursday, March 19, 2026",Nagpur,Cooking,LPG,8.2,kg,3,24.6,March,2026
+"Saturday, March 21, 2026",Nagpur,Transport,Car,47,km,0.192,9.02,March,2026
+"Monday, March 23, 2026",Nagpur,Transport,Train,350,km,0.041,14.35,March,2026
+"Wednesday, March 25, 2026",Nagpur,Transport,Motorcycle,250,km,0.103,25.75,March,2026
+"Friday, March 27, 2026",Pune,Waste,General Waste,15,kg,0.5,7.5,March,2026
+"Sunday, March 29, 2026",Nagpur,Flight,Air Travel,1582,km,0.15,237.3,March,2026
+"Tuesday, March 31, 2026",Mumbai,Transport,Motorcycle,184,km,0.103,18.95,March,2026
+"Thursday, April 2, 2026",Pune,Cooking,LPG,4.4,kg,3,13.2,April,2026
+"Saturday, April 4, 2026",Mumbai,Transport,Train,252,km,0.041,10.33,April,2026
+"Monday, April 6, 2026",Pune,Electricity,Electricity,131,kWh,0.82,107.42,April,2026
+"Wednesday, April 8, 2026",Mumbai,Transport,Motorcycle,132,km,0.103,13.6,April,2026
+"Friday, April 10, 2026",Pune,Transport,Train,132,km,0.041,5.41,April,2026
+"Sunday, April 12, 2026",Pune,Waste,Recyclable Waste,10.8,kg,0.1,1.08,April,2026
+"Tuesday, April 14, 2026",Mumbai,Waste,General Waste,17.9,kg,0.5,8.95,April,2026
+"Thursday, April 16, 2026",Mumbai,Electricity,Electricity,326,kWh,0.82,267.32,April,2026
+"Saturday, April 18, 2026",Nashik,Cooking,LPG,4.4,kg,3,13.2,April,2026
+"Monday, April 20, 2026",Pune,Cooking,LPG,8.3,kg,3,24.9,April,2026
+"Wednesday, April 22, 2026",Mumbai,Cooking,LPG,2.9,kg,3,8.7,April,2026
+"Friday, April 24, 2026",Pune,Flight,Air Travel,1549,km,0.15,232.35,April,2026
+"Sunday, April 26, 2026",Nagpur,Cooking,LPG,5.3,kg,3,15.9,April,2026
+"Tuesday, April 28, 2026",Mumbai,Transport,Bus,166,km,0.105,17.43,April,2026
+"Thursday, April 30, 2026",Pune,Transport,Motorcycle,436,km,0.103,44.91,April,2026
+"Sunday, May 3, 2026",Mumbai,Electricity,Electricity,439,kWh,0.82,359.98,May,2026
+"Tuesday, May 5, 2026",Nashik,Transport,Train,453,km,0.041,18.57,May,2026
+"Thursday, May 7, 2026",Mumbai,Waste,Recyclable Waste,9.4,kg,0.1,0.94,May,2026
+"Saturday, May 9, 2026",Mumbai,Transport,Train,79,km,0.041,3.24,May,2026
+"Monday, May 11, 2026",Pune,Transport,Car,159,km,0.192,30.53,May,2026
+"Wednesday, May 13, 2026",Nagpur,Electricity,Electricity,88,kWh,0.82,72.16,May,2026
+"Friday, May 15, 2026",Nashik,Transport,Motorcycle,150,km,0.103,15.45,May,2026
+"Sunday, May 17, 2026",Mumbai,Flight,Air Travel,827,km,0.15,124.05,May,2026
+"Tuesday, May 19, 2026",Nashik,Transport,Train,123,km,0.041,5.04,May,2026
+"Thursday, May 21, 2026",Pune,Electricity,Electricity,178,kWh,0.82,145.96,May,2026
+"Saturday, May 23, 2026",Pune,Waste,Recyclable Waste,18.4,kg,0.1,1.84,May,2026
+"Monday, May 25, 2026",Mumbai,Cooking,LPG,4.2,kg,3,12.6,May,2026
+"Wednesday, May 27, 2026",Pune,Cooking,LPG,5.3,kg,3,15.9,May,2026
+"Friday, May 29, 2026",Mumbai,Cooking,LPG,10.5,kg,3,31.5,May,2026
+"Sunday, May 31, 2026",Mumbai,Cooking,LPG,2.9,kg,3,8.7,May,2026
+"Tuesday, June 2, 2026",Pune,Transport,Motorcycle,177,km,0.103,18.23,June,2026
+"Thursday, June 4, 2026",Mumbai,Waste,General Waste,28.4,kg,0.5,14.2,June,2026
+"Saturday, June 6, 2026",Pune,Electricity,Electricity,176,kWh,0.82,144.32,June,2026
+"Monday, June 8, 2026",Mumbai,Electricity,Electricity,396,kWh,0.82,324.72,June,2026
+"Wednesday, June 10, 2026",Mumbai,Electricity,Electricity,271,kWh,0.82,222.22,June,2026
+"Friday, June 12, 2026",Pune,Cooking,LPG,11.4,kg,3,34.2,June,2026
+"Sunday, June 14, 2026",Nagpur,Waste,General Waste,23.9,kg,0.5,11.95,June,2026
+"Tuesday, June 16, 2026",Mumbai,Waste,General Waste,30.1,kg,0.5,15.05,June,2026
+"Thursday, June 18, 2026",Pune,Waste,General Waste,11.6,kg,0.5,5.8,June,2026
+"Saturday, June 20, 2026",Pune,Transport,Car,147,km,0.192,28.22,June,2026
+"Monday, June 22, 2026",Nagpur,Transport,Bus,77,km,0.105,8.08,June,2026
+"Wednesday, June 24, 2026",Pune,Waste,Recyclable Waste,20.2,kg,0.1,2.02,June,2026
+"Friday, June 26, 2026",Pune,Waste,Recyclable Waste,11.3,kg,0.1,1.13,June,2026
+"Sunday, June 28, 2026",Mumbai,Transport,Train,318,km,0.041,13.04,June,2026
+"Tuesday, June 30, 2026",Mumbai,Cooking,LPG,5,kg,3,15,June,2026
+"Friday, July 3, 2026",Pune,Electricity,Electricity,487,kWh,0.82,399.34,July,2026
+"Sunday, July 5, 2026",Pune,Waste,Recyclable Waste,20.6,kg,0.1,2.06,July,2026
+"Tuesday, July 7, 2026",Nashik,Transport,Train,419,km,0.041,17.18,July,2026
+"Thursday, July 9, 2026",Pune,Transport,Motorcycle,111,km,0.103,11.43,July,2026
+"Saturday, July 11, 2026",Mumbai,Electricity,Electricity,421,kWh,0.82,345.22,July,2026
+"Monday, July 13, 2026",Mumbai,Transport,Bus,144,km,0.105,15.12,July,2026
+"Wednesday, July 15, 2026",Nagpur,Flight,Air Travel,504,km,0.15,75.6,July,2026
+"Friday, July 17, 2026",Pune,Transport,Bus,463,km,0.105,48.61,July,2026
+"Sunday, July 19, 2026",Nashik,Transport,Train,127,km,0.041,5.21,July,2026
+"Tuesday, July 21, 2026",Pune,Cooking,LPG,2.5,kg,3,7.5,July,2026
+"Thursday, July 23, 2026",Mumbai,Electricity,Electricity,390,kWh,0.82,319.8,July,2026
+"Saturday, July 25, 2026",Nagpur,Transport,Train,143,km,0.041,5.86,July,2026
+"Monday, July 27, 2026",Pune,Cooking,LPG,6,kg,3,18,July,2026
+"Wednesday, July 29, 2026",Nashik,Electricity,Electricity,425,kWh,0.82,348.5,July,2026
+"Friday, July 31, 2026",Pune,Transport,Car,146,km,0.192,28.03,July,2026
+"Sunday, August 2, 2026",Mumbai,Cooking,LPG,3.7,kg,3,11.1,August,2026
+"Tuesday, August 4, 2026",Pune,Transport,Bus,137,km,0.105,14.38,August,2026
+"Thursday, August 6, 2026",Mumbai,Cooking,LPG,4.8,kg,3,14.4,August,2026
+"Saturday, August 8, 2026",Mumbai,Waste,General Waste,15.2,kg,0.5,7.6,August,2026
+"Monday, August 10, 2026",Pune,Cooking,LPG,7.7,kg,3,23.1,August,2026
+"Wednesday, August 12, 2026",Pune,Transport,Bus,481,km,0.105,50.5,August,2026
+"Friday, August 14, 2026",Pune,Transport,Motorcycle,257,km,0.103,26.47,August,2026
+"Sunday, August 16, 2026",Mumbai,Waste,General Waste,5.7,kg,0.5,2.85,August,2026
+"Tuesday, August 18, 2026",Mumbai,Electricity,Electricity,368,kWh,0.82,301.76,August,2026
+"Thursday, August 20, 2026",Mumbai,Electricity,Electricity,329,kWh,0.82,269.78,August,2026
+"Saturday, August 22, 2026",Mumbai,Electricity,Electricity,369,kWh,0.82,302.58,August,2026
+"Monday, August 24, 2026",Mumbai,Transport,Bus,461,km,0.105,48.41,August,2026
+"Wednesday, August 26, 2026",Mumbai,Electricity,Electricity,83,kWh,0.82,68.06,August,2026
+"Friday, August 28, 2026",Nagpur,Electricity,Electricity,337,kWh,0.82,276.34,August,2026
+"Sunday, August 30, 2026",Mumbai,Transport,Train,359,km,0.041,14.72,August,2026
+"Wednesday, September 2, 2026",Pune,Electricity,Electricity,459,kWh,0.82,376.38,September,2026
+"Friday, September 4, 2026",Mumbai,Transport,Car,120,km,0.192,23.04,September,2026
+"Sunday, September 6, 2026",Nashik,Cooking,LPG,8.5,kg,3,25.5,September,2026
+"Tuesday, September 8, 2026",Pune,Transport,Car,114,km,0.192,21.89,September,2026
+"Thursday, September 10, 2026",Pune,Transport,Car,54,km,0.192,10.37,September,2026
+"Saturday, September 12, 2026",Pune,Transport,Bus,429,km,0.105,45.05,September,2026
+"Monday, September 14, 2026",Pune,Cooking,LPG,4.6,kg,3,13.8,September,2026
+"Wednesday, September 16, 2026",Mumbai,Electricity,Electricity,193,kWh,0.82,158.26,September,2026
+"Friday, September 18, 2026",Nagpur,Cooking,LPG,9.4,kg,3,28.2,September,2026
+"Sunday, September 20, 2026",Pune,Flight,Air Travel,1617,km,0.15,242.55,September,2026
+"Tuesday, September 22, 2026",Mumbai,Electricity,Electricity,306,kWh,0.82,250.92,September,2026
+"Thursday, September 24, 2026",Pune,Waste,Recyclable Waste,10,kg,0.1,1,September,2026
+"Saturday, September 26, 2026",Nagpur,Electricity,Electricity,303,kWh,0.82,248.46,September,2026
+"Monday, September 28, 2026",Mumbai,Flight,Air Travel,1748,km,0.15,262.2,September,2026
+"Wednesday, September 30, 2026",Pune,Cooking,LPG,5.8,kg,3,17.4,September,2026
+"Friday, October 2, 2026",Mumbai,Electricity,Electricity,296,kWh,0.82,242.72,October,2026
+"Sunday, October 4, 2026",Pune,Transport,Motorcycle,119,km,0.103,12.26,October,2026
+"Tuesday, October 6, 2026",Nashik,Transport,Car,284,km,0.192,54.53,October,2026
+"Thursday, October 8, 2026",Mumbai,Transport,Bus,71,km,0.105,7.46,October,2026
+"Saturday, October 10, 2026",Mumbai,Electricity,Electricity,452,kWh,0.82,370.64,October,2026
+"Monday, October 12, 2026",Pune,Transport,Train,398,km,0.041,16.32,October,2026
+"Wednesday, October 14, 2026",Nashik,Transport,Car,76,km,0.192,14.59,October,2026
+"Friday, October 16, 2026",Mumbai,Transport,Car,442,km,0.192,84.86,October,2026
+"Sunday, October 18, 2026",Mumbai,Waste,Recyclable Waste,27.9,kg,0.1,2.79,October,2026
+"Tuesday, October 20, 2026",Nagpur,Transport,Bus,28,km,0.105,2.94,October,2026
+"Thursday, October 22, 2026",Mumbai,Flight,Air Travel,1476,km,0.15,221.4,October,2026
+"Saturday, October 24, 2026",Mumbai,Flight,Air Travel,1391,km,0.15,208.65,October,2026
+"Monday, October 26, 2026",Nagpur,Transport,Bus,213,km,0.105,22.36,October,2026
+"Wednesday, October 28, 2026",Pune,Transport,Car,155,km,0.192,29.76,October,2026
+"Friday, October 30, 2026",Nagpur,Transport,Car,164,km,0.192,31.49,October,2026
+"Monday, November 2, 2026",Mumbai,Waste,General Waste,12.8,kg,0.5,6.4,November,2026
+"Wednesday, November 4, 2026",Mumbai,Cooking,LPG,5.8,kg,3,17.4,November,2026
+"Friday, November 6, 2026",Pune,Cooking,LPG,5.3,kg,3,15.9,November,2026
+"Sunday, November 8, 2026",Pune,Electricity,Electricity,321,kWh,0.82,263.22,November,2026
+"Tuesday, November 10, 2026",Pune,Electricity,Electricity,396,kWh,0.82,324.72,November,2026
+"Thursday, November 12, 2026",Nashik,Flight,Air Travel,586,km,0.15,87.9,November,2026
+"Saturday, November 14, 2026",Nagpur,Electricity,Electricity,270,kWh,0.82,221.4,November,2026
+"Monday, November 16, 2026",Pune,Electricity,Electricity,496,kWh,0.82,406.72,November,2026
+"Wednesday, November 18, 2026",Nashik,Transport,Bus,192,km,0.105,20.16,November,2026
+"Friday, November 20, 2026",Pune,Waste,General Waste,4.2,kg,0.5,2.1,November,2026
+"Sunday, November 22, 2026",Pune,Waste,Recyclable Waste,18.5,kg,0.1,1.85,November,2026
+"Tuesday, November 24, 2026",Pune,Waste,Recyclable Waste,9.1,kg,0.1,0.91,November,2026
+"Thursday, November 26, 2026",Mumbai,Transport,Car,393,km,0.192,75.46,November,2026
+"Saturday, November 28, 2026",Nashik,Electricity,Electricity,91,kWh,0.82,74.62,November,2026
+"Monday, November 30, 2026",Nagpur,Waste,Recyclable Waste,15.8,kg,0.1,1.58,November,2026
+"Wednesday, December 2, 2026",Pune,Cooking,LPG,3.9,kg,3,11.7,December,2026
+"Friday, December 4, 2026",Pune,Electricity,Electricity,257,kWh,0.82,210.74,December,2026
+"Sunday, December 6, 2026",Nagpur,Transport,Car,211,km,0.192,40.51,December,2026
+"Tuesday, December 8, 2026",Pune,Electricity,Electricity,280,kWh,0.82,229.6,December,2026
+"Thursday, December 10, 2026",Mumbai,Transport,Train,259,km,0.041,10.62,December,2026
+"Saturday, December 12, 2026",Pune,Transport,Bus,409,km,0.105,42.95,December,2026
+"Monday, December 14, 2026",Mumbai,Waste,Recyclable Waste,28.7,kg,0.1,2.87,December,2026
+"Wednesday, December 16, 2026",Nagpur,Transport,Bus,384,km,0.105,40.32,December,2026
+"Friday, December 18, 2026",Pune,Transport,Train,84,km,0.041,3.44,December,2026
+"Sunday, December 20, 2026",Nagpur,Electricity,Electricity,346,kWh,0.82,283.72,December,2026
+"Tuesday, December 22, 2026",Pune,Electricity,Electricity,421,kWh,0.82,345.22,December,2026
+"Thursday, December 24, 2026",Mumbai,Flight,Air Travel,304,km,0.15,45.6,December,2026
+"Saturday, December 26, 2026",Pune,Electricity,Electricity,390,kWh,0.82,319.8,December,2026
+"Monday, December 28, 2026",Mumbai,Waste,General Waste,24,kg,0.5,12,December,2026
+"Thursday, December 31, 2026",Nashik,Waste,General Waste,29.5,kg,0.5,14.75,December,2026
