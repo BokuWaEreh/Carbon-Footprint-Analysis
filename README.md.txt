@@ -25,7 +25,7 @@ K-Means Clustering — groups activities using emission-related features.
 `ml_insights.py` — Python script for the machine-learning analysis.
 `carbon_data` — csv file for dataset
 `carbon_footprint_ML` — Power BI report 
-`ml_output/` — csv files for activities, forecast, anomalies.
+`anomalies, forecast, activity_cluster` — csv files for activities, forecast, anomalies.
 `outputs` — pdf file for output images
 
 #Disclaimer
